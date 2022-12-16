@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f346ccf9-b1da-4c4a-85b7-719868047c62": {
+      "ProjectGuid": "f346ccf9-b1da-4c4a-85b7-719868047c62",
+      "DisplayName": "TCP-chat",
+      "ColorIndex": 0
+    },
+    "e1e0ff93-d209-468e-a3d7-79d211f22821": {
+      "ProjectGuid": "e1e0ff93-d209-468e-a3d7-79d211f22821",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "4ebef734-0d54-4ca1-ae47-b0a91d374575": {
+      "ProjectGuid": "4ebef734-0d54-4ca1-ae47-b0a91d374575",
+      "DisplayName": "Client1",
+      "ColorIndex": 2
+    },
+    "461de451-d15d-4206-b943-4cb00062c59f": {
+      "ProjectGuid": "461de451-d15d-4206-b943-4cb00062c59f",
+      "DisplayName": "User1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
